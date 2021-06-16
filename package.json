@@ -1,7 +1,6 @@
 {
   "name": "pluto",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -28,5 +27,14 @@
   },
   "devDependencies": {
     "jest": "^26.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avinash-Murugappan/LMS-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Avinash-Murugappan/LMS-Backend/issues"
+  },
+  "homepage": "https://github.com/Avinash-Murugappan/LMS-Backend#readme",
+  "description": ""
 }
